@@ -20,13 +20,17 @@ year = {2013}
 }
 
 Installing
+
 Download code: git clone https://github.com/liangjiecn/Saliency2013.
+
 Download hyperspectral images: http://personalpages.manchester.ac.uk/staff/david.foster/Hyperspectral_images_of_natural_scenes_02.html
 
 Add the folder of code to the working directory in Matlab. 
+
 Run Demo.m
 
 Feedback
+
 If you have any issues (question, feedback) or find bugs in the code, please contact liangjiecn@outlook.com.
 
 
